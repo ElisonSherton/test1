@@ -18,5 +18,5 @@ setuptools.setup(
     },
     license='MIT',
     packages=['okkular_ml'],
-    install_requires=[	"setuptools>=42","wheel","boto3","fastai==2.5.1"],
+    install_requires=[	"setuptools","wheel","boto3","fastai"],
 )
